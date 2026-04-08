@@ -1,160 +1,42 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Ali Saif Portfolio</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-      background: linear-gradient(135deg, #0f172a, #020617);
-      color: #e2e8f0;
-      line-height: 1.6;
-    }
-
-    .container {
-      max-width: 1000px;
-      margin: auto;
-      padding: 40px 20px;
-    }
-
-    h1, h2 {
-      color: #38bdf8;
-    }
-
-    h1 {
-      font-size: 2.5rem;
-    }
-
-    h2 {
-      margin-top: 40px;
-      border-left: 4px solid #38bdf8;
-      padding-left: 10px;
-    }
-
-    p {
-      margin: 10px 0;
-    }
-
-    .highlight {
-      color: #22c55e;
-      font-weight: bold;
-    }
-
-    .box {
-      background: rgba(255,255,255,0.05);
-      padding: 20px;
-      border-radius: 12px;
-      margin-top: 20px;
-    }
-
-    ul {
-      padding-left: 20px;
-    }
-
-    li {
-      margin: 8px 0;
-    }
-
-    .tag {
-      display: inline-block;
-      background: rgba(56,189,248,0.1);
-      color: #38bdf8;
-      padding: 5px 10px;
-      border-radius: 8px;
-      margin: 5px 5px 0 0;
-      font-size: 0.9rem;
-    }
-
-    .quote {
-      margin: 15px 0;
-      padding: 15px;
-      border-left: 4px solid #22c55e;
-      background: rgba(34,197,94,0.1);
-      font-style: italic;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-
-    <h1>👋 About Me</h1>
-    <p>
-      I’m <span class="highlight">Ali Saif</span>, a results-driven <strong>SEO Specialist</strong> and <strong>Web Development Learner</strong> focused on building high-performing digital experiences.
-    </p>
-    <p>
-      With experience working with <span class="highlight">100+ local businesses</span>, I help brands improve visibility, rank higher, and generate consistent leads using data-driven SEO strategies.
-    </p>
-
-    <h2>🚀 What I Do</h2>
-    <div class="box">
-      <p>I combine SEO and development to build websites that don’t just exist — <span class="highlight">they perform.</span></p>
-      <div>
-        <span class="tag">Local SEO</span>
-        <span class="tag">Technical SEO</span>
-        <span class="tag">On-Page SEO</span>
-        <span class="tag">Performance Optimization</span>
-        <span class="tag">SEO Development</span>
-      </div>
-
-      <ul>
-        <li>Google Business Profile & Map Rankings</li>
-        <li>Site Audits, Indexing & Core Web Vitals</li>
-        <li>Content Structure & Keyword Targeting</li>
-        <li>Speed & UX Optimization</li>
-        <li>SEO-Friendly Website Architecture</li>
-      </ul>
-    </div>
-
-    <h2>📈 My Journey</h2>
-    <div class="box">
-      <p>
-        I started with SEO — learning search engines, user behavior, and ranking systems.
-      </p>
-      <p>
-        After helping multiple businesses grow, I realized something important:
-      </p>
-
-      <div class="quote">
-        SEO is powerful, but development gives full control.
-      </div>
-
-      <p>
-        That’s when I stepped into web development. Now, I focus on bridging the gap between strategy and implementation.
-      </p>
-
-      <ul>
-        <li>Clean and modern design</li>
-        <li>Strong technical foundation</li>
-        <li>Optimized for search rankings</li>
-      </ul>
-    </div>
-
-    <h2>⚡ My Approach</h2>
-    <div class="box">
-      <p><strong>No fluff. No outdated tactics. Just results.</strong></p>
-      <ul>
-        <li>⚡ Performance-first mindset</li>
-        <li>📊 Scalable strategies</li>
-        <li>🔍 Search visibility focus</li>
-        <li>💼 Real business growth</li>
-      </ul>
-    </div>
-
-    <h2>🎯 Vision</h2>
-    <div class="box">
-      <p>
-        My goal is to become a <span class="highlight">full-stack digital problem solver</span> by combining SEO and development.
-      </p>
-      <p>
-        I continuously learn, build, and share insights to stay ahead in the digital world.
-      </p>
-    </div>
-
-  </div>
-</body>
-</html>
+👋 About Me
+I’m Ali Saif, a results-driven SEO Specialist and Web Development Learner focused on building high-performing digital experiences.
+With proven experience working with 100+ local businesses, I help brands:
+Improve online visibility
+Rank higher on Google
+Generate consistent, qualified leads
+All through data-driven SEO strategies that actually deliver results.
+🚀 What I Do
+I combine Local SEO, Technical SEO, and performance-focused development to create websites that don’t just exist — they perform.
+🔧 Core Expertise:
+Local SEO — Google Business Profile optimization & Map rankings
+Technical SEO — Site audits, indexing, Core Web Vitals
+On-Page SEO — Content structure & keyword targeting
+Performance Optimization — Speed, UX, and technical health
+SEO-Friendly Development — Building websites structured to rank
+📈 My Journey
+My journey started with SEO — understanding search engines, user behavior, and ranking systems.
+After helping dozens of businesses grow, I realized one key thing:
+SEO is powerful, but development gives full control.
+That realization pushed me to step into web development.
+Now, I focus on bridging the gap between strategy and implementation — building websites that are:
+Visually clean
+Technically strong
+Fully optimized to rank
+⚡ My Approach
+I believe in simplicity and results.
+No fluff. No outdated tactics. Just strategies that work.
+Every project I work on is focused on:
+⚡ Performance
+📊 Scalability
+🔍 Search Visibility
+💼 Real Business Growth
+🎯 Vision
+My goal is to become a full-stack digital problem solver — combining SEO + Development to build scalable, high-performing online assets.
+I’m continuously:
+Learning
+Building
+Sharing insights
+…to stay ahead in the ever-evolving digital landscape
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Muhammad Ali Saif) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ali_saif_seo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ali Saif) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Ali Saif) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@alisaif335) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@muhmmmadalisaif) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alisaif336266@gmail.com) 
