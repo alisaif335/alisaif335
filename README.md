@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 About Me
 I’m Ali Saif, a results-driven SEO Specialist and Web Development Learner focused on building high-performing digital experiences.
 With proven experience working with 100+ local businesses, I help brands:
