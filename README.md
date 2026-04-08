@@ -1,6 +1,4 @@
-Here’s your **About Me in the exact same GitHub README format**, but fully tailored to your SEO + development profile:
 
----
 
 # 💫 About Me:
 
