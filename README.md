@@ -1,5 +1,3 @@
-
-
 # 💫 About Me:
 
 👨‍💻 **Professional Overview** <br><br>
